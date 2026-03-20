@@ -2,7 +2,7 @@
 
 # 👋 Opa, eu sou o Luiz Corbelli.
 
-Sou acadêmico de Segurança da Informação e Assistente N1 de Suporte na Capgemini. Estou construindo uma base sólida em redes, administração de servidores linux, infraestrutura e Cloud. Eu também colaboro num Projeto de Ambeinte Corporativo: Attalus Tecnologia.
+Sou acadêmico de Segurança da Informação e Assistente N1 de Suporte na Capgemini. Estou construindo uma base sólida em redes, administração de servidores linux, infraestrutura e Cloud. Eu também colaboro num Projeto de Ambiente Corporativo Completo, chamado Attalus Tecnologia, que simula a infraestrutura de uma empresa fictícia. 
 Aqui compartilho meus estudos, projetos e minha evolução rumo a uma carreira consistente em cybersecurity.
 
 ---
@@ -35,9 +35,13 @@ Aqui compartilho meus estudos, projetos e minha evolução rumo a uma carreira c
 
 ## 📁 Projetos em Destaque (vou colocar aqui durante as férias)
 
-- ATTALUS TECNOLOGIA - Home Lab de um Abiente Corporativo (Em estruturação);
-- Intalação e configuração do Ubunto Server;  
-- Scripts e anotações de aprendizados de cursos.  
+- ATTALUS TECNOLOGIA - Home Lab de um Abiente Corporativo (Em estruturação), que inclui:
+
+- Topologias de rede;
+- Servidores;
+- Documentação técnica;
+- Práticas de segurança;
+- Organização e padronização corporativa.
 
 ---
 
